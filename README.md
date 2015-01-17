@@ -9,8 +9,8 @@ A fix for the PWM mode of units shipped prior to January 15, 2015
 
 **Hardware Solution:** If the software solution is not a good fit for your application simply send your unit back to PulsedLight Inc and we'll reprogram it and send it back, please be sure to include a return address. 
 
-PulsedLight Inc. 
-P.O. Box 691
+PulsedLight Inc.    
+P.O. Box 691   
 Bend, OR 97709
 
 ## Software Solution

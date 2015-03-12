@@ -26,7 +26,7 @@ Download repository, open with Arduino IDE and upload to Arduino
 
 ### Arduino Setup
 
-![](http://pulsedlight3d.net/assets.pl3d/llpwmfix.jpg)
+![](http://pl3d.us/arduino-pwm-setup-pwm-fix.png)
 
 #### LIDAR-Lite PWM with PWR_EN setup
 
